@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tacilamarqs
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ and Java
 - 📫 How to reach me: tacilamarqs@gmail.com 
 
 <!---
