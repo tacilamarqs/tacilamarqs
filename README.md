@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tacilamarqs
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning Java and React Native
+- 🌱 I’m currently learning Java and C#
 - 📫 How to reach me: tacilamarqs@gmail.com 
 
 <!---
