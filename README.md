@@ -3,7 +3,7 @@
 <p> I am currently a 4rd period undergraduate student in Computer Science at UNIPÊ - University Center of João Pessoa</p>
 
 - 👀 I’m interested in front end
-- 🌱 I’m currently learning Java, C# and Docker
+- 🌱 I’m currently learning C#!
 - 📫 How to reach me: tacilamarqs@gmail.com 
 
 <!---
